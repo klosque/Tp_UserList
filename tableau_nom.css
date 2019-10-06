@@ -1,0 +1,28 @@
+p 
+{
+    font-weight: bold;
+}
+
+body
+{
+   background-color: silver;
+   border-left: 5px solid silver;
+   border-right: 5px solid silver;
+
+}
+
+/*h1
+{
+   border: 3px black groove;
+}*/
+
+ol
+{
+  
+    border: 3px black groove;
+}
+
+tr
+{
+	 font-weight: bold;
+}
